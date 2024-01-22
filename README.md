@@ -27,4 +27,6 @@ Lock.js      -  tests the deployment, validations, events, and transfers associa
 package.json - file defines project with specified dependencies, including Hardhat for Ethereum development, ethers for Ethereum interactions, and scripts for installing a specific package during testing
 
 
+To deploy a smart contract to the Sepolia testnet using Infura for Ethereum node communication firstly created a MetaMask account, registered for an Infura account, get private key for the deployment and sent Sepolia ethers to the Metamask private account, which used for deployment.
+
 ```
